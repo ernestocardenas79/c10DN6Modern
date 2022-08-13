@@ -1,0 +1,15 @@
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/obj/Debug/net6.0/vocabulary.csproj.AssemblyReference.cache
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/obj/Debug/net6.0/vocabulary.GeneratedMSBuildEditorConfig.editorconfig
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/obj/Debug/net6.0/vocabulary.AssemblyInfoInputs.cache
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/obj/Debug/net6.0/vocabulary.AssemblyInfo.cs
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/obj/Debug/net6.0/vocabulary.csproj.CoreCompileInputs.cache
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/bin/Debug/net6.0/vocabulary
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/bin/Debug/net6.0/vocabulary.deps.json
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/bin/Debug/net6.0/vocabulary.runtimeconfig.json
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/bin/Debug/net6.0/vocabulary.dll
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/bin/Debug/net6.0/vocabulary.pdb
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/obj/Debug/net6.0/vocabulary.dll
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/obj/Debug/net6.0/refint/vocabulary.dll
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/obj/Debug/net6.0/vocabulary.pdb
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/obj/Debug/net6.0/vocabulary.genruntimeconfig.cache
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter02/vocabulary/obj/Debug/net6.0/ref/vocabulary.dll
