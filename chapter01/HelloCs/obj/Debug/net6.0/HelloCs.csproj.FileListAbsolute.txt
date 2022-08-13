@@ -1,0 +1,15 @@
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/bin/Debug/net6.0/HelloCs
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/bin/Debug/net6.0/HelloCs.deps.json
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/bin/Debug/net6.0/HelloCs.runtimeconfig.json
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/bin/Debug/net6.0/HelloCs.dll
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/bin/Debug/net6.0/HelloCs.pdb
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/obj/Debug/net6.0/HelloCs.csproj.AssemblyReference.cache
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/obj/Debug/net6.0/HelloCs.GeneratedMSBuildEditorConfig.editorconfig
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/obj/Debug/net6.0/HelloCs.AssemblyInfoInputs.cache
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/obj/Debug/net6.0/HelloCs.AssemblyInfo.cs
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/obj/Debug/net6.0/HelloCs.csproj.CoreCompileInputs.cache
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/obj/Debug/net6.0/HelloCs.dll
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/obj/Debug/net6.0/refint/HelloCs.dll
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/obj/Debug/net6.0/HelloCs.pdb
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/obj/Debug/net6.0/HelloCs.genruntimeconfig.cache
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/HelloCs/obj/Debug/net6.0/ref/HelloCs.dll

@@ -1,0 +1,15 @@
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/bin/Debug/net6.0/TopLevelProgram
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/bin/Debug/net6.0/TopLevelProgram.deps.json
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/bin/Debug/net6.0/TopLevelProgram.runtimeconfig.json
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/bin/Debug/net6.0/TopLevelProgram.dll
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/bin/Debug/net6.0/TopLevelProgram.pdb
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/obj/Debug/net6.0/TopLevelProgram.csproj.AssemblyReference.cache
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/obj/Debug/net6.0/TopLevelProgram.GeneratedMSBuildEditorConfig.editorconfig
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/obj/Debug/net6.0/TopLevelProgram.AssemblyInfoInputs.cache
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/obj/Debug/net6.0/TopLevelProgram.AssemblyInfo.cs
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/obj/Debug/net6.0/TopLevelProgram.csproj.CoreCompileInputs.cache
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/obj/Debug/net6.0/TopLevelProgram.dll
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/obj/Debug/net6.0/refint/TopLevelProgram.dll
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/obj/Debug/net6.0/TopLevelProgram.pdb
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/obj/Debug/net6.0/TopLevelProgram.genruntimeconfig.cache
+/home/omnicron/sandbox/DotNet/c10DN6Modern/chapter01/TopLevelProgram/obj/Debug/net6.0/ref/TopLevelProgram.dll
