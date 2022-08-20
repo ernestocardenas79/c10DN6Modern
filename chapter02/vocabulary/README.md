@@ -1,1 +1,1 @@
-C# 10 and .Net 6 Modern Development
+C# 10 and .Net 6 Modern Development - Chapter 02 
