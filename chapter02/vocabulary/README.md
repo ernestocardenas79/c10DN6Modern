@@ -1,1 +1,6 @@
+#
 C# 10 and .Net 6 Modern Development - Chapter 02 
+
+##
+Vocabulary project
+
