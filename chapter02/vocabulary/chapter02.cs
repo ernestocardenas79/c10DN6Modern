@@ -1,5 +1,5 @@
-internal class Vocabulary {
-    internal Vocabulary()
+internal class Chapter02 {
+    internal Chapter02()
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine($"int uses {sizeof(int)} bytes and can store numbers in the range {int.MinValue:N0} to {int.MaxValue:N0}."); 
