@@ -17,7 +17,7 @@ namespace vocabulary
            Trace.WriteLine($"{typeof(Chapter04)} {a} + {b} = {answer}");
         }
 
-       internal double Add(double a, double b)    {
+       public double Add(double a, double b)    {
             return a + b; 
        }
     }
